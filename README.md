@@ -34,15 +34,14 @@ From there, the database was imported into PowerBI to create visualizations.
 
 
 
-#### Entity Relationship Diagram for SQL Database 
+### Entity Relationship Diagram for SQL Database 
 
 ![ERD](<SQL and ERD/erd.drawio.png>)
 
 
-#### PowerBI Dashboard 
+### PowerBI Dashboard 
 
-![Dashboard](PowerBI/Financial_Aid_PowerBI_Dashboard-1.png)
-
+![Dashboard](PowerBI/Financial_Aid_PowerBI_Dashboard.png)
 
 
 ### Conclusions/Findings
@@ -60,25 +59,39 @@ Again, much more data would be needed to make any definite conclusions, however 
 
 
 
-### Definitions and Helpful Information
+### More Information
 
-#### Loans
+[Eligible Loan Amount for Students](https://studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized)
 
-Direct Subsidized Loans - do not accrue interest while student is attending school, credit check not required
-
-Direct Unsubsidized Loans - begin accuring interest as soon as taken out by student, credit check not required
-
-Direct PLUS Loans - begin accuring interest as soon as taken out by student, credit check required 
+[Pell Grant Eligibility](https://studentaid.gov/understand-aid/types/grants/pell/calculate-eligibility)
 
 
 
-Direct PLUS Loans are additional loans offered by the Department of Education, Parent Plus Loans require passing a credit check and the loan is then under the parents name. 
-Graduate Plus loans also require a credit check, the loan is under the student name(only avaiable for graduate students).
+#### Eligible Loan Amounts
+
+Year	            Dependent total amount	                            Independent total amount
+
+First year          $5,500 ($3,500 subsidized, $2,000 unsubsidized)     $9,500 ($3,500 subsidized, $6,000 subsidized)
+
+Second year         $6,500 ($4,500 subsidized, $2,000 unsubsidized)     $10,500 ($4,500 subsidized, $6,000 unsubsidized)
+
+Third year          $7,500 ($5,500 subsidized, $2,000 unsubsidized)     $12,500 ($5,500 subsidized, $7,000 unsubsidized)
+and beyond 
 
 
+#### Lifetime Aggragate Limits Undergraduate
 
-Direct Subsidized Loans and Direct Unsubsidized Loans: Borrowed by undergraduate students, current interest rate is 4.99%
+Dependent: $31,000 ($23,000 subsidized, $7,000 unsubsidized)
+Independent: $57,500 ($23,000 subsidized, $34,500 unsubsidized)
 
-Direct Graduate Unsubsidized Loans: Borrowed by graduate students, current interest rate is 6.54%
+#### Graduate and Plus Loans 
 
-Direct PLUS Loans: This includes Parent Plus Loan and Graduate Plus Loan, current interest rate is 7.54%
+Graduate students are eligible for $20,500 per academic year. 
+The lifetime aggragate limit for graduate students is $138,500
+
+
+Grad PLUS Loans: Up to the cost of attendance minus other financial aid received.
+Parent PLUS Loans: Up to the cost of attendance minus other financial aid received.
+
+
+(*)The Cost of Attendance is the estimated total expenses a student may incur for tuition, fees, housing, meals, books, transportation, and personal expenses during their enrollment in an educational institution. (This can range from less than $5,000 to over $30,000 a year currently)
