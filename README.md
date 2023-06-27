@@ -46,14 +46,14 @@ From there, the database was imported into PowerBI to create visualizations.
 
 ### Conclusions/Findings
 
-As with many reports much more data is needed to draw and conclusive results.
-However, within the findings, one can see that in 2010 there was a major hike in recipients of all types of Title IV loans.
+As with many reports, much more data is needed to draw any conclusive results.
+However, within the findings, one can see that around 2010 there was a major hike in recipients of all types of Title IV loans.
 
-Within this same year, we can see that Graduate Plus loans were also introduced, which can be indicative of rising education costs being supplemented by higher interest federal loans. 
+Within this timeframe, we can see that Graduate Plus loans were also introduced, which can be indicative of rising education costs being supplemented by higher interest federal loans. 
 
-The population of student enrollments has not increased enough to account for so many new recipients of loans, especially in undergraduate programs. Also, Pell grant recipients increased as well, showing that more and more students have required all exisiting funds to afford education. 
+The population of student enrollments has not increased enough to account for so many new recipients of loans, especially in undergraduate programs.
 
-Here is a helpful article from February 2010 noticing increases expected for the upcoming academic year. [CNN Money](https://money.cnn.com/2010/02/24/news/economy/public_tuition_soars/index.htm)
+Here is a helpful article from February 2010 noticing increased education costs expected for the upcoming academic year. [CNN Money](https://money.cnn.com/2010/02/24/news/economy/public_tuition_soars/index.htm)
 
 Again, much more data would be needed to make any definite conclusions, however it is apparent student loan recipients have increased at a substantial rate over the last 13 years.
 
