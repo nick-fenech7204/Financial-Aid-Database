@@ -1,7 +1,7 @@
 # Financial Aid Analysis Over 20 Years
 This project extracts and analyzes financial aid loan/grant increases over time. Below one will find all relevant information pertaining to the project:
 
-### Data Sources:
+### Data Sources
 
 Data for this project was pulled from the following two websites:
 
@@ -54,13 +54,13 @@ Within this same year, we can see that Graduate Plus loans were also introduced,
 
 The population of student enrollments has not increased enough to account for so many new recipients of loans, especially in undergraduate programs. Also, Pell grant recipients increased as well, showing that more and more students have required all exisiting funds to afford education. 
 
-Here is a helpful article from February 2010 noticing increases expected for the upcoming academic year. CNN Money [https://money.cnn.com/2010/02/24/news/economy/public_tuition_soars/index.htm]
+Here is a helpful article from February 2010 noticing increases expected for the upcoming academic year. [CNN Money](https://money.cnn.com/2010/02/24/news/economy/public_tuition_soars/index.htm)
 
 Again, much more data would be needed to make any definite conclusions, however it is apparent student loan recipients have increased at a substantial rate over the last 13 years.
 
 
 
-### Definitions and Helpful Information: 
+### Definitions and Helpful Information
 
 #### Loans
 
