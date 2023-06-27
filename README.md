@@ -69,29 +69,29 @@ Again, much more data would be needed to make any definite conclusions, however 
 
 #### Eligible Loan Amounts
 
-Year	            Dependent total amount	                            Independent total amount
-
-First year          $5,500 ($3,500 subsidized, $2,000 unsubsidized)     $9,500 ($3,500 subsidized, $6,000 subsidized)
-
-Second year         $6,500 ($4,500 subsidized, $2,000 unsubsidized)     $10,500 ($4,500 subsidized, $6,000 unsubsidized)
-
-Third year          $7,500 ($5,500 subsidized, $2,000 unsubsidized)     $12,500 ($5,500 subsidized, $7,000 unsubsidized)
-and beyond 
+| Year               | Dependent total amount                                | Independent total amount                              |
+|--------------------|-----------------------------------------------------|-------------------------------------------------------|
+| First year         | $5,500 ($3,500 subsidized, $2,000 unsubsidized)       | $9,500 ($3,500 subsidized, $6,000 unsubsidized)       |
+| Second year        | $6,500 ($4,500 subsidized, $2,000 unsubsidized)       | $10,500 ($4,500 subsidized, $6,000 unsubsidized)      |
+| Third year & beyond| $7,500 ($5,500 subsidized, $2,000 unsubsidized)       | $12,500 ($5,500 subsidized, $7,000 unsubsidized)      |
 
 
 #### Lifetime Aggragate Limits Undergraduate
 
-Dependent: $31,000 ($23,000 subsidized, $7,000 unsubsidized)
-Independent: $57,500 ($23,000 subsidized, $34,500 unsubsidized)
+* Dependent: $31,000 ($23,000 subsidized, $7,000 unsubsidized)
+
+* Independent: $57,500 ($23,000 subsidized, $34,500 unsubsidized)
+
 
 #### Graduate and Plus Loans 
 
-Graduate students are eligible for $20,500 per academic year. 
-The lifetime aggragate limit for graduate students is $138,500
+* Graduate students are eligible for $20,500 per academic year. 
+
+* The lifetime aggragate limit for graduate students is $138,500
 
 
-Grad PLUS Loans: Up to the cost of attendance minus other financial aid received.
-Parent PLUS Loans: Up to the cost of attendance minus other financial aid received.
+* Grad PLUS Loans: Up to the cost of attendance minus other financial aid received.
+* Parent PLUS Loans: Up to the cost of attendance minus other financial aid received.
 
 
-(*)The Cost of Attendance is the estimated total expenses a student may incur for tuition, fees, housing, meals, books, transportation, and personal expenses during their enrollment in an educational institution. (This can range from less than $5,000 to over $30,000 a year currently)
+* The Cost of Attendance is the estimated total expenses a student may incur for tuition, fees, housing, meals, books, transportation, and personal expenses during their enrollment in an educational institution. (This can range from less than $5,000 to over $30,000 a year currently)
